@@ -38,5 +38,5 @@ public class GuessingGame
 				}
 		}
 	}
-	//HI. Nice to meet you:D
+	//HI. 
 }
