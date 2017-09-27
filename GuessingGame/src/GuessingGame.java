@@ -32,9 +32,9 @@ public class GuessingGame
 						System.out.println("That is not the answer.");
 					}
 				}
-				catch (InputMismatchException e) 
+				catch (InputMismatchException s) 
 				{
-					System.out.println("You made an error: " + e);
+					System.out.println("You made an error: " + s);
 				}
 		}
 	}
