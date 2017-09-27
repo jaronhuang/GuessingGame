@@ -14,7 +14,7 @@ public class GuessingGame
 		String s = input.next();
 		System.out.println("Nice to meet you " + s);
 		*/
-		int answer = (int)(Math.random() * 10 + 1);
+		int answer = (int)(Math.random() * 100 + 1);
 		int guess = 0;
 		while (guess != answer)
 		{
